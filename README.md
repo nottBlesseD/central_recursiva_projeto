@@ -16,4 +16,4 @@
 1. Clonar repositório ou transferir os ficheiros para a máquina atual:
    ```bash
    git clone <https://github.com/nottBlesseD/central_recursiva_projeto.git>
-   cd central_recursiva_robusta
+   cd central_recursiva_projeto
